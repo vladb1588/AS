@@ -18,6 +18,7 @@ const age = 25;
 - Массивы: `let arr = [1, 2, 3];`
 - Объекты: `let obj = { key: "value" }`
 - undefined и null
+- typeof
 
 ## 3. Операторы
 - Арифметические: `+`, `-`, `*`, `/`, `%`
