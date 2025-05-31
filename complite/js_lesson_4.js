@@ -4,3 +4,15 @@
 // Задание 3: Используйте логические операторы для проверки: a больше 5 и b меньше 10. Выведите результат.
 
 // Ваш код здесь
+let a = 5
+let b = 4
+
+console.log(a + b)
+console.log(a - b)
+console.log(a / b)
+console.log(a % b)
+console.log(a == b)
+console.log(a === b)
+console.log(a > 5)
+console.log(a < 10)
+
